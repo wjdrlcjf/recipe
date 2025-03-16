@@ -1,4 +1,4 @@
-### This is a LOCAL change :)
+### This is a REMOTE change :O
 # recipe
 line 2 changed remotely
 this repository holds instructions for making cookie
