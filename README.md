@@ -9,5 +9,9 @@ line 2 changed remotely
 2. Making cookies: instructions_cookie.txt
 3. Sources: https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/
 
+![Tasty cookies!](Data Science/student_a5/student/recipe/recipe.png "Beautiful Cookie")
+
+
+
 last line changed locally
 ### This is a LOCAL change :)
